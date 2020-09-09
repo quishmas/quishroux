@@ -1,0 +1,4 @@
+hasstopworking = 'bakamitai'
+ex = hasstopworking
+
+print(ex)
